@@ -1,1 +1,1 @@
-# taskpilot-mcp
+# TASKPIOLET-MCP
